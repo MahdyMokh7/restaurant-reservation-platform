@@ -19,7 +19,7 @@ The application allows users to:
 * Manage their profile
 * Access protected pages after login
 
-### The project was originally based on an course specification and has been expanded with professional software engineering practices, modern frontend architecture, and production-ready coding standards. It combines the UI implementation from the first phase with backend integration, authentication, and protected routing introduced in the second phase.
+The project was originally based on an course specification and has been expanded with professional software engineering practices, modern frontend architecture, and production-ready coding standards. It combines the UI implementation from the first phase with backend integration, authentication, and protected routing introduced in the second phase.
 
 # Demo
 
